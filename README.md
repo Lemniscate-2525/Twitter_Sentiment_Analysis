@@ -19,6 +19,15 @@ Twitter sentiment dataset with four classes:
 - Negative
 - Neutral
 - Irrelevant
+  ## Dataset
+
+The dataset used in this project is sourced from Kaggle:
+
+Twitter Sentiment Analysis Dataset : 
+https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
+
+Due to licensing considerations, the dataset is not included in this repository.
+
 
 ## Key Learnings
 - Bag of Words ignores word importance and order, has out of vocabulary(OOV) and sparsity problems.

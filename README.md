@@ -38,22 +38,23 @@ The LSTM model outperforms classical approaches largely due to the embedding lay
 This is a learning-focused project intended to explore NLP representations
 and model behavior, not a production-ready system.
 
-
-Raw Tweets
-   ↓
-Text Cleaning
-   ↓
-Label Encoding
-   ↓
-Feature Extraction
-   ├── Bag of Words
-   ├── TF-IDF
-   └── Tokenization + Padding
-   ↓
-Models
-   ├── Logistic Regression (BoW)
-   ├── Logistic Regression (TF-IDF)
-   └── LSTM (Embeddings)
-   ↓
+## Workflow
+Raw Tweets  
+↓  
+Text Cleaning  
+↓  
+Label Encoding  
+↓  
+Feature Extraction  
+├── Bag of Words  
+├── TF-IDF  
+└── Tokenization + Padding  
+↓  
+Models  
+├── Logistic Regression (BoW)  
+├── Logistic Regression (TF-IDF)  
+└── LSTM (Embeddings)  
+↓  
 Evaluation & Comparison
+
 

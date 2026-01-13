@@ -47,7 +47,7 @@ The LSTM model outperforms classical approaches largely due to the embedding lay
 This is a learning-focused project intended to explore NLP representations
 and model behavior, not a production-ready system.
 
-## Workflow
+## Workflow 
 Raw Tweets  
 ↓  
 Text Cleaning  
@@ -65,5 +65,9 @@ Models
 └── LSTM (Embeddings)  
 ↓  
 Evaluation & Comparison
+
+## YT Walkthough :
+
+
 
 
